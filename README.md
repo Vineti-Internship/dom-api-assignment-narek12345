@@ -21,6 +21,9 @@
 
 __There are two possible grades for this assignment: P and F (Pass, Fail)__
 
-## Grade: __To Be Added__
+## Grade: F
+
+## Feedback
+- Not Submitted
 
 \* DO NOT CHANGE THIS DOCUMENT, the reviewer will check the homework and add the grade
