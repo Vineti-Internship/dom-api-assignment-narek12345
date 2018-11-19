@@ -1,0 +1,43 @@
+    #bigCircle
+    {
+        width: 100px;
+        height: 100px;
+        background: blue;
+        border-radius: 50%;
+        position: fixed;
+        /* overflow: auto; */
+    }
+    #smallCircle
+    {
+        position: absolute; 
+        width: 20px;
+        height: 20px;
+        background:red;
+        border-radius: 50%;
+        margin-left: -10px;
+        margin-top: 40px;
+        
+    }
+    #button
+    {
+        background-color: orange; /* Green */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        border-radius:20% ;
+        margin-left: 40%;
+        margin-top: 5%;
+    }
+    #cartesian
+    {
+        margin-top: 10%;
+        overflow: auto;
+        margin-left: 40%;
+        width: 100px;
+        height: 100px;
+        background-color: white;
+    }
